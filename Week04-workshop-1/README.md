@@ -1,5 +1,6 @@
 # Readme
+Docker cheat sheet </br>
+https://docs.docker.com/get-started/docker_cheatsheet.pdf </br>
 
-pip install -r requirements.txt
-
-https://docs.docker.com/get-started/docker_cheatsheet.pdf
+Kaggle study </br>
+https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
