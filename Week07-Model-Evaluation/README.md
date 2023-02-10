@@ -65,8 +65,12 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 - https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
 - https://franciscorequena.com/post/roc-curves-an-animated-example/
 - https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
+- https://github.com/akshaykapoor347/Compute-AUC-ROC-from-scratch-python/blob/master/AUCROCPython.ipynb
 
 ## More ..
 https://datascience.stackexchange.com/a/24051
 https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc/
 https://medium.com/@douglaspsteen/precision-recall-curves-d32e5b290248
+
+## SHAP
+https://www.kaggle.com/learn/machine-learning-explainability
