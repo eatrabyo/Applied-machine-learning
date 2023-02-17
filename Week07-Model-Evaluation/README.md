@@ -1,13 +1,13 @@
 <H1> Good reference </H1>
 
 Feature selection </br>
-https://arxiv.org/pdf/2005.12483.pdf
-https://stackoverflow.com/questions/44172162/f1-score-vs-roc-auc
-https://stackoverflow.com/questions/38555650/try-multiple-estimator-in-one-grid-search/53292354
-https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a
-https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137
-https://towardsdatascience.com/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0
-https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
+- https://arxiv.org/pdf/2005.12483.pdf
+- https://stackoverflow.com/questions/44172162/f1-score-vs-roc-auc
+- https://stackoverflow.com/questions/38555650/try-multiple-estimator-in-one-grid-search/53292354
+- https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a
+- https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137
+- https://towardsdatascience.com/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0
+- https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel
 
 <pre>
 from sklearn.pipeline import Pipeline
@@ -47,8 +47,9 @@ Evidently Ai
 https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## Good example of precision and recall
-- "For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
-- For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
+- Example
+  - "For rare cancer data modeling, anything that doesn't account for false-negatives is a crime. Recall is a better measure than precision.
+  - For YouTube recommendations, false-negatives is less of a concern. Precision is better here." https://datascience.stackexchange.com/a/30882
 - https://forecasters.org/wp-content/uploads/gravity_forms/7-621289a708af3e7af65a7cd487aee6eb/2015/07/Kolassa_Stephan_ISF2015.pdf
 - https://blog.clairvoyantsoft.com/churning-the-confusion-out-of-the-confusion-matrix-b74fb806e66
 - Recall: https://c3.ai/glossary/data-science/recall/
@@ -56,6 +57,8 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 - https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
 - https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#:~:text=The%20precision%2Drecall%20curve%20shows,a%20low%20false%20negative%20rate.
 - https://en.wikipedia.org/wiki/Precision_and_recall
+- https://stackoverflow.com/questions/26355942/why-is-the-f-measure-a-harmonic-mean-and-not-an-arithmetic-mean-of-the-precision
+- https://en.wikipedia.org/wiki/Harmonic_mean
 
 ## Multi-class
 - https://vitalflux.com/micro-average-macro-average-scoring-metrics-multi-class-classification-python/
@@ -63,14 +66,10 @@ https://m.youtube.com/watch?v=L4Pv6ExBQPM&feature=youtu.be
 
 ## ROC AUC
 - https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
-- https://franciscorequena.com/post/roc-curves-an-animated-example/
-- https://towardsdatascience.com/understanding-the-roc-curve-in-three-visual-steps-795b1399481c
 - https://github.com/akshaykapoor347/Compute-AUC-ROC-from-scratch-python/blob/master/AUCROCPython.ipynb
-
-## More ..
-https://datascience.stackexchange.com/a/24051
-https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc/
-https://medium.com/@douglaspsteen/precision-recall-curves-d32e5b290248
+- https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/
+- https://datascience.stackexchange.com/a/24051
+- https://www.datascienceblog.net/post/machine-learning/interpreting-roc-curves-auc/
 
 ## SHAP
-https://www.kaggle.com/learn/machine-learning-explainability
+- https://www.kaggle.com/learn/machine-learning-explainability
